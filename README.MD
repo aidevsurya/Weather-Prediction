@@ -37,7 +37,7 @@ pip install pandas scikit-learn matplotlib
 📁 Weather-Prediction
  ├── seattle-weather.csv      # Dataset
  ├── Weather_model.model      # Saved trained model (after running)
- ├── weather_predict.py       # Main script
+ ├── weather.py       # Main script
  └── README.md                # Documentation
 </pre>
 
